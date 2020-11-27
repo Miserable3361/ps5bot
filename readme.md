@@ -56,11 +56,10 @@ I did all this on macos, linux should be no problem also. For Windows, if you're
     2. Type `./ps5bot` (hit enter)
     3. Follow the prompts, close the window when youre done
  2. Run scrape
-   1. Repeat part 1 of step 1 of setup(just above).
-   2. Type `./ps5bot scrape`
-   3. Select the wesbites you want to scrape using the spacebar
-   4. Hit enter
-   5. Let it do it's thing
+   1. Repeat part i of step 1 of setup(just above).
+   2. Type `./ps5bot scrape` (hit enter)
+   3. Select the wesbites you want to scrape using the spacebar (hit enter)
+   5. Watch in amazement
  
 
 ## Bot Configs
